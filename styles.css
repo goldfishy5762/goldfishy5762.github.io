@@ -1,0 +1,49 @@
+h1{
+
+color: #0EA4C9;
+font-family: 'Comfortaa', cursive;
+
+}
+
+h3{
+
+  color: #4A6EB5;
+  font-family: 'Comfortaa', cursive;
+}
+
+
+}
+
+h4{
+
+  color: #0E5199;
+  font-family: 'Comfortaa', cursive;
+}
+
+.nav-bar ul {
+  font-size: 30px;
+  font-family: 'Coda Caption', sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5CA8FF;
+  text align: center;
+}
+
+.nav-bar li {
+  float: center;
+  display: inline-block;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color #5CA8FF;
+}
